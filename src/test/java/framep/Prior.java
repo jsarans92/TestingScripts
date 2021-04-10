@@ -19,5 +19,6 @@ public class Prior {
 	@Test(priority = 1)
 	public void a() {
 		System.out.println("Name 2");
+		System.out.println("Edited in Github");
 	}
 }
